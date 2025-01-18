@@ -22,7 +22,10 @@
         "php": "^8.4",
         "amphp/parser": "^1.1",
         "amphp/pipeline": "^1.2",
-        "amphp/socket": "^2.3"
+        "amphp/socket": "^2.3",
+        "brickhouse/core": "dev-main",
+        "brickhouse/http": "dev-main",
+        "brickhouse/log": "dev-main"
     },
     "autoload": {
         "psr-4": {
