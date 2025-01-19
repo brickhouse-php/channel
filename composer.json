@@ -8,7 +8,7 @@
         "issues": "https://github.com/brickhouse-php/brickhouse/issues",
         "source": "https://github.com/brickhouse-php/brickhouse"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
         {
